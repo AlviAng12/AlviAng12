@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!, my name is Alvaro Ayala
+![image](https://github.com/user-attachments/assets/ab8e39e2-7319-4666-a0a1-04f9a430df60)
 
 <!--
 **AlviAng12/AlviAng12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
