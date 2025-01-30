@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/ab8e39e2-7319-4666-a0a1-04f9a430df60)
 
 ## 👋 About Me  
-I am an **organized, proactive, and highly capable leader**. My **communication and teamwork skills** allow me to collaborate effectively on various projects.  
+I am an ![image](https://img.shields.io/badge/organized-blue),![image](https://img.shields.io/badge/proactive-green) and ![image](https://img.shields.io/badge/Highly_capable-leader-yellow). My **communication and teamwork skills** allow me to collaborate effectively on various projects.  
 
 🔹 **Fast learner**, always striving for improvement.  
 🔹 **Responsible** and committed to excellence.  
